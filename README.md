@@ -34,9 +34,7 @@ Hallo! 👋 I view the world as a stochastic process. Uncertainty is the only th
 
 ### 📈 GitHub Stats
 
-![thenam's Stats](https://github-readme-stats.vercel.app/api?username=gallegi&theme=default&show_icons=true&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gallegi&layout=compact&theme=default&hide_border=false)
+[![The Nam's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gallegi?cardType=level&preferLogin=false&Background=FFFFFF)](https://git.io/awesome-stats-card)
 
 ### <img src="icons/kaggle.png" width="18" height="18" /> Kaggle
 <img src="images/kaggle_profile.png"/>
