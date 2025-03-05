@@ -1,5 +1,6 @@
 
-## 👋 Hi!, I'm The Nam (Liam) Nguyen | ML Engineer | MSc. Machine Learning at Tübingen University
+## 👋 Hi!, I'm The Nam (Liam) Nguyen 
+**ML Engineer | MSc. Machine Learning at Tübingen University**
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
@@ -50,5 +51,5 @@ Hallo! 👋 I view the world as a stochastic process. Uncertainty is the only th
 
 ### 🤝 Let's Connect!
 - Open for collaborations on AI/ML projects.
-- Interested in mentoring and knowledge sharing.
-- Available for technical consulting and speaking engagements.
+- 
+-
