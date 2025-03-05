@@ -50,6 +50,4 @@ Hallo! 👋 I view the world as a stochastic process. Uncertainty is the only th
 ![LeetCode Stats](https://leetcard.jacoblin.cool/namnguyen61031?theme=light&font=Hind%20Siliguri)
 
 ### 🤝 Let's Connect!
-- Open for collaborations on AI/ML projects.
-- 
--
+I'm open to collaborating on AI/ML projects. If you have any questions, feel free to reach out to me at [namnguyen61031@gmail.com](mailto:namnguyen61031@gmail.com).
