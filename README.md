@@ -11,7 +11,7 @@
 
 > I build machine learning models and their applications
 
-Hallo! 👋 I view the world as a stochastic process. Uncertainty is the only thing that is unchanged in this fast-changing world. I love building machine learning models to catch the signal from the noise. Large language models and vision language models are my favorite toys. Their ability to generalize always amazes me. I also believe in the future of democratizing AI. That's why I build open-source tools to make AI more accessible, more useful and intuitive to everyone.
+Hallo! 👋 I view the world as a stochastic process. Uncertainty is the only thing that is unchanged in this fast-changing world. I love building machine learning models to catch the signal from data. Large language models and vision language models are my favorite toys. Their ability to generalize always amazes me. I also believe in the future of democratizing AI. That's why I build open-source tools to make AI more accessible, more useful and intuitive to everyone.
 
 
 ### 🎯 About me
